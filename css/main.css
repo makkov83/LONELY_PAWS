@@ -1,0 +1,62 @@
+h1 { color: rgb(250, 255, 250);
+}
+.list {
+    color: burlywood;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+div,p,button,ul,form,input {
+    box-sizing: border-box;
+}
+
+
+
+.header {
+    background: rgb(178,188,114);
+background: linear-gradient(101deg, rgba(178,188,114,1) 0%, rgba(249,234,102,1) 100%);
+padding-bottom: 10px;
+padding-top: 10px;}
+.container {
+    width: 1171px;
+margin: 0 auto;
+
+}
+.headtext {text-align: center;
+    font-size: 27px;
+
+
+}
+.zag {
+    font-size: 24px; 
+}
+.wraper {
+  display: flex;
+  padding-top: 50px;
+  justify-content: space-between;
+  padding-bottom: 205px;
+}
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    background: #ed9619;
+    color: #fff;
+    border-radius: 100px;
+    display: block;
+    width: 205px;
+    padding: 20px 0;
+    text-align: center;
+    text-decoration: none;
+margin-top: 30px;
+transition: all 0.5s ease;
+    
+}
+.btn:hover {background: #B2BC72;
+}
+.cat {
+    
+        
+}
+    
